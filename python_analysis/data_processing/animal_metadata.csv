@@ -1,0 +1,11 @@
+animal_id,cheater,intrinsic_imaging_result,learner,houselight,sex,mouse_line,notes
+CL030,not tested,n/a,learner,auto,male,rbp4-cre het,Pavlovain. ITI houselight
+CL031,not tested,n/a,learner,auto,male,rbp4-cre het,Pavlovian. ITI houselight
+CL036,not tested,n/a,inconsistent,auto,female,rbp4-cre het,Pavlovian. ITI houselight
+CL037,not tested,n/a,inconsistent,auto,female,rbp4-cre het,Pavlovian. ITI houselight
+CL038,not tested,n/a,inconsistent,auto,female,rbp4-cre het,Pavlovian. ITI houselight
+CL039,non-cheater,n/a,learner,auto,female,rbp4-cre het,"trained on go/no-go, learner status tested with pavlovian"
+CL040,cheater,c1_c2,learner,auto,female,rbp4-cre het,"trained on go/no-go, learner status tested with pavlovian"
+CL041,not tested,c1_c2,non-learner,auto,female,rbp4-cre het,"trained on go/no-go, learner status tested with pavlovian"
+CL042,not tested,c1_c2,non-learner,auto,male,rbp4-cre het,trained on Pavlovian. Only imaged pre and d1.
+CL043,not tested,c1_c2,non-learner,auto,male,rbp4-cre het,trained on Pavlovian. Only imaged pre and d1

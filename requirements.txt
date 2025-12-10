@@ -1,0 +1,34 @@
+# Behaviour Analysis Project Dependencies
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Plotting and visualization
+matplotlib>=3.4.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Image processing and file I/O
+tifffile>=2021.7.2
+pillow>=8.3.0
+
+# Data serialization
+# pickle5>=0.0.11  # For Python < 3.8 compatibility (not needed for Python 3.12)
+
+# Jupyter notebook support (essential for .ipynb files)
+jupyter>=1.0.0
+ipython>=7.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+jupyterlab>=3.0.0
+
+# Development tools (optional)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Note: Install with: pip install -r requirements.txt
+# For conda users: conda install --file requirements.txt (may need to use pip for some packages)
