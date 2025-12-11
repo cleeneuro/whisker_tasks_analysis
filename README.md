@@ -103,7 +103,7 @@ If you use this code, please cite:
   author = {Lee, Candice},
   title = {Whisker Tasks Analysis: Behavioural and Calcium Imaging Analysis},
   year = {2025},
-  url = {https://github.com/clee162/whisker_tasks_analysis},
+  url = {https://github.com/cleeneuro/whisker_tasks_analysis},
   version = {1.0.0}
 }
 ```
